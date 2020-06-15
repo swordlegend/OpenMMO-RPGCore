@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd83d037d37334041bbf82de7d7a744b, type: 3}
+  m_Name: Easter Event [Example]
+  m_EditorClassIdentifier: 
+  title: Easter Event
+  folderName: GameEvents
+  sortCategory: 
+  sortOrder: 0
+  smallIcon: {fileID: 0}
+  backgroundIcon: {fileID: 0}
+  rarity: {fileID: 0}
+  description: 'From 1st through 30th of April 2020
+
+    Energy (Currency) production is accelerated by 3 seconds during that period.
+
+
+    (Requires Wovencore Syncable Currencies in order to generate this effect)'
+  level: 1
+  autoGenerateCurrencyModifier: []
+  startDate:
+    _dateTime: 4/1/2020 12:00:00 AM
+  endDate:
+    _dateTime: 4/30/0001 12:00:00 AM
